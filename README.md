@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Caffeine 13C NMR Prediction Using Machine Learning
 ## About
 A beginner computational chemistry project
@@ -28,3 +29,6 @@ The model has not been validated on unseen molecules.
 =======
 # caffeine-nmr-ml
 >>>>>>> fe7033810f14749eb1f383acb9c870e06872177b
+=======
+# Caffeine-nmr-ml
+>>>>>>> 3e31d0c9f5adbf27f92043d766045eedbe9adb37
