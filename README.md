@@ -44,6 +44,9 @@ Compares molecular fingerprints to calculate structural similarity between molec
 
 Uses Matplotlib to create 3D surface visualizations of chemical shift and intensity data.
 
+## 3D Molecule visualization
+![3D Molecule](images/3d_molecule.png)
+
 
 ⚙️ Installation
 
